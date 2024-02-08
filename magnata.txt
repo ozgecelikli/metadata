@@ -1,6 +1,6 @@
 {
   "name": "bizozge",
-  "website": "bizozge.xyz",
+  "website": "https://github.com/ozgecelikli",
   "description": "biz ozge",
   "logo": "https://i.ibb.co/qd2c0J4/eigenlogo.png",
   "twitter": "https://twitter.com/ocelikli"
